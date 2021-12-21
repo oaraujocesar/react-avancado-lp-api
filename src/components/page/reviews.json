@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_page_reviews",
+  "info": {
+    "displayName": "reviews",
+    "icon": "star-half-alt"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "text": {
+      "type": "text",
+      "required": true
+    },
+    "avatar": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

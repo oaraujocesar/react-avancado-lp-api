@@ -97,6 +97,13 @@
       "type": "component",
       "repeatable": false,
       "component": "page.section-about-us"
+    },
+    "sectionReviews": {
+      "displayName": "sectionReviews",
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-reviews",
+      "required": true
     }
   }
 }
