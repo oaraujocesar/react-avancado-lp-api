@@ -47,6 +47,13 @@
       "repeatable": false,
       "component": "page.section-concepts",
       "required": true
+    },
+    "sectionModules": {
+      "displayName": "sectionModules",
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-modules",
+      "required": true
     }
   }
 }
