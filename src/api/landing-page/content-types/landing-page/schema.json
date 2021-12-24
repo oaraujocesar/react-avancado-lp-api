@@ -69,29 +69,6 @@
       "component": "page.pricing-box",
       "required": true
     },
-    "totalPrice": {
-      "type": "integer",
-      "required": true
-    },
-    "numberInstallments": {
-      "type": "integer",
-      "required": true
-    },
-    "priceInstallment": {
-      "type": "integer",
-      "required": true
-    },
-    "benefits": {
-      "type": "richtext",
-      "default": "Create items as bullet items on a list",
-      "required": true
-    },
-    "button": {
-      "type": "component",
-      "repeatable": false,
-      "component": "page.button",
-      "required": true
-    },
     "sectionAboutUs": {
       "displayName": "sectionAboutUs",
       "type": "component",
