@@ -9,7 +9,6 @@ module.exports = ({ env }) => ({
         params: {
           Bucket: env('AWS_BUCKET'),
         },
-        logger: console,
       },
     },
   },
